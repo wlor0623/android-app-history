@@ -6,6 +6,8 @@ QQ安卓历史版本收集
 # url转换
 https://android-apps.pp.cn/ => https://alissl.ucdl.pp.uc.cn/
 
+# 123盘
+https://www.123865.com/s/Qtm4jv-bjcbd?提取码:6666
 
 | Filename | Size (bytes) |
 |---|---|
