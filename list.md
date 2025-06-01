@@ -1,0 +1,307 @@
+官方版本号：v5.3.1.49_r732606
+https://alissl.ucdl.pp.uc.cn/fs01/2014/10/28/0_cd2155f11dc1725fe30359e2493465f9.apk?yingid=web_space&packageid=600021649&md5=a005ded001cdcec118a56648ccf56b6b&minSDK=8&size=25879546&shortMd5=2db9b89c685c0ce9c2a871eef74fa084&crc32=3303944054&did=c1d3d0f796e13e575d1702f2979f271a
+更新时间：2014年10月28日 20:21
+
+官方版本号：v5.4.0.51_r798589
+https://alissl.ucdl.pp.uc.cn/fs01/2014/11/03/0_579af0f4b74e88043df72ae506feab9f.apk?yingid=web_space&packageid=600022918&md5=255ca838b1d139f3aee69ab7ef3578b5&minSDK=10&size=24157752&shortMd5=8ef80bf5f6833f83e7222abc0b639d83&crc32=150501087&did=5f652ce41ae5c756d46cf00ead60942c
+更新时间：2014年11月03日 20:21
+
+官方版本号：v5.3.1.67_r745169
+https://alissl.ucdl.pp.uc.cn/fs03/2015/04/10/10/102_0648b06930bef6c1f0af3e3dc4ee516c.apk?yingid=web_space&packageid=600073580&md5=9c388beaf7b475a7fef045f92d84ca29&minSDK=8&size=25865425&shortMd5=70be1bde6d8ef1d03d42799ca71d5a8e&crc32=2789938172&did=4a033f3d923633b3d131864fdfc5dc2f
+更新时间：2015年04月10日 19:16
+
+官方版本号：v6.0.2.56_r958800
+https://alissl.ucdl.pp.uc.cn/fs03/2015/05/29/4/102_3f0af165c35581aaab187858c869eabf.apk?yingid=web_space&packageid=600086483&md5=507fa5d9698b28cfe67dd3f8a36d51ed&minSDK=10&size=30871326&shortMd5=e24c833dce176b676f65920d8eebef32&crc32=750307409&did=bd5d04b799d4cbee09410c793859965d
+更新时间：2015年05月29日 12:10
+
+官方版本号：v6.1.0.65_r1055054
+https://alissl.ucdl.pp.uc.cn/fs03/2015/04/08/2/102_63c9873fc11dd2ce636e2a5b71b0c63d.apk?yingid=web_space&packageid=600073082&md5=5dc304dc26272a50ec06ffb2e3384d52&minSDK=10&size=35811809&shortMd5=2a20770344fd570ce25d1dd75a50d0c5&crc32=307622013&did=5febc2a887984bb00a8dfd38d85a5861
+更新时间：2015年04月08日 22:27
+
+官方版本号：v6.1.0.56_r1021013
+https://alissl.ucdl.pp.uc.cn/fs01/2015/08/05/7/102_d50621640280c3f77a23e72c8693ec26.apk?yingid=web_space&packageid=600099768&md5=fb7e288436d8467e33d6513c11ff224f&minSDK=10&size=35749874&shortMd5=6ec92c0b7580eb83923d6539cdac0e6a&crc32=173588628&did=8117bda5e93463773bc628e00a0265eb
+更新时间：2015年08月05日 16:36
+
+官方版本号：v6.1.0.65_r1050890
+https://alissl.ucdl.pp.uc.cn/fs01/2015/08/26/5/102_26dcfab0a3333cda60224b00ac677cee.apk?yingid=web_space&packageid=600103486&md5=436554c259b97275ead1b67cf1bbbfd5&minSDK=10&size=35799037&shortMd5=227b561fc634a578290e0b67f14bca2f&crc32=2137864039&did=f934b323a18077bda5b9db2777c72276
+更新时间：2015年08月26日 10:55
+
+官方版本号：v6.1.0.66_r1062275
+https://alissl.ucdl.pp.uc.cn/fs04/2015/08/07/3/102_109cb1428b4018bc068c349a17f576bc.apk?yingid=web_space&packageid=600100258&md5=07fe9a8d14b32239ff868d4287eab53a&minSDK=10&size=35812765&shortMd5=3a76d3e88cef235f7896b4eed9916b7c&crc32=138879983&did=e09c0fef267a3d62b590b1ad0fd03506
+更新时间：2015年08月07日 09:49
+
+官方版本号：v6.1.0.76_r1119377
+https://alissl.ucdl.pp.uc.cn/fs01/2015/05/28/5/102_a36a28d43d1a574fb45f054c5590a5c4.apk?yingid=web_space&packageid=600086164&md5=d9f19aa0c9978d538e6b0694c2160c48&minSDK=10&size=35728356&shortMd5=2910443c8c41e6b168e053200fd3ce24&crc32=3405560567&did=d7a36757444dbb7e5f035022d8f3bac1
+更新时间：2015年05月28日 12:17
+
+官方版本号：v6.2.0.54_r1169949
+https://alissl.ucdl.pp.uc.cn/fs04/2015/08/05/9/102_9e851c4cfe7a7aca35891649cec8751c.apk?yingid=web_space&packageid=600099662&md5=601db2520ba6b03b0ce53bf185a38d99&minSDK=10&size=31134767&shortMd5=ddd9be6326fa026499a734d61743b445&crc32=2152989658&did=addda6a0f1df4ed36365334ed3c8010f
+更新时间：2015年08月05日 12:05
+
+官方版本号：v6.2.0.52_r1162382
+https://alissl.ucdl.pp.uc.cn/fs01/2015/05/27/0/106_c16db33211d327e3f0f296654192afa7.apk?yingid=web_space&packageid=600085847&md5=c90d7a6a8cded5b5da95ae1ee6382875&minSDK=10&size=31125506&shortMd5=5f6f0f07bc4549b5bfb0b8a02332de34&crc32=1015852150&did=f7f9122c06db680ab9c09f41c942f95d
+更新时间：2015年05月27日 12:14
+
+官方版本号：v6.2.2.50_raae3e65
+https://alissl.ucdl.pp.uc.cn/fs01/2015/06/26/4/106_07f3f718930df61e42c87435dee9ec30.apk?yingid=web_space&packageid=600091855&md5=4a483e4597113e213bb3693fa5ac4fb0&minSDK=10&size=32473503&shortMd5=0576f3140c16b22088144db385871f4e&crc32=637622764&did=4f25723bd645b546adf26160ccfc06d4
+更新时间：2015年06月26日 22:38
+
+官方版本号：v6.2.2.54_rec1912d
+https://alissl.ucdl.pp.uc.cn/fs04/2015/08/06/11/102_d638ce552e40f21f4c8c21c5561b9e00.apk?yingid=web_space&packageid=600100005&md5=2df5645bbd123c3dc607d05c32592a91&minSDK=10&size=32455093&shortMd5=05778c4adf6f4b5daf0a2cc7c9e43390&crc32=1545176242&did=77d0e17690afcd14f5521f597ff29b1a
+更新时间：2015年08月06日 11:39
+
+官方版本号：v6.2.4.51_rdf8da56
+https://alissl.ucdl.pp.uc.cn/fs04/2015/08/14/10/102_9c0376572181d3bb611d96e0239047e7.apk?yingid=web_space&packageid=600101318&md5=ae1b9a3e673bbea8e17bbda696bbee89&minSDK=15&size=31298480&shortMd5=1acd5195f00870fffa3eb4bd735e0793&crc32=2048550403&did=4d4d3dce2cb2552277a6d6de1149699c
+更新时间：2015年08月14日 09:48
+
+官方版本号：v6.2.4.53_r843fb8e
+https://alissl.ucdl.pp.uc.cn/fs01/2015/08/18/9/102_88161c94847c982154955c4d89b2e626.apk?yingid=web_space&packageid=600101933&md5=d51e651e6d737e28c473ddcfa0484e41&minSDK=15&size=31994344&shortMd5=d1da2075543235f3b80fe706a224b2e4&crc32=2788364370&did=1ed9aeea7ab35f1acfe7713f2ae32990
+更新时间：2015年08月18日 09:50
+
+官方版本号：v6.2.4.54_r266a9ba
+https://alissl.ucdl.pp.uc.cn/fs04/2015/08/29/0/102_9fd4642f0df2d36e41a7970a10e0a0a6.apk?yingid=web_space&packageid=600104261&md5=bf7985d4099a12e4e0e3ac3e6ae73103&minSDK=15&size=31994940&shortMd5=390a722e063ee69435b76457ea01a15d&crc32=2275606525&did=f50fc800cbe2458d427829902833fe72
+更新时间：2015年08月29日 09:46
+
+官方版本号：v6.2.5.49_r7ead8bf
+https://alissl.ucdl.pp.uc.cn/fs04/2015/09/01/7/102_4ac289932248a048b6ed38eb6b2ea4ce.apk?yingid=web_space&packageid=600104667&md5=5539e66e3b717b13d4d526f7ca4353f7&minSDK=15&size=32249872&shortMd5=aa7d86dd6d48e0a282bf55bce9508dc9&crc32=1468210766&did=8b73ad20946fcd5aea620ef6e4aa8d29
+更新时间：2015年09月01日 09:46
+
+官方版本号：v6.2.5.51_rfe7d7c5
+https://alissl.ucdl.pp.uc.cn/fs04/2015/09/30/1/102_ae5079469ff97e098af7a5b903b8e8b9.apk?yingid=web_space&packageid=600111151&md5=d9f7021aee35a50a86d0ffea43f7443c&minSDK=15&size=32250136&shortMd5=5932880e1e162e07ccc6855f38187c74&crc32=3825318094&did=2c121214351d5fafc9773a973d57007c
+更新时间：2015年09月30日 09:51
+
+官方版本号：v6.2.5.54_re87237d
+https://alissl.ucdl.pp.uc.cn/fs03/2015/09/29/2/106_107f99af063cffe7ea99b5b967d362d0.apk?yingid=web_space&packageid=600110996&md5=0c6c6131e69ddec69bf8fd5fdfaa215e&minSDK=15&size=32252160&shortMd5=c71e1ab8fd9094ea16198319d2e14c13&crc32=3334034926&did=25345ee6dd9553f9c3eeec96f475fbcb
+更新时间：2015年09月29日 17:11
+
+官方版本号：v6.3.5.49_r55a68be
+https://alissl.ucdl.pp.uc.cn/fs05/2015/12/04/7/102_f3ea57ad8c93668df675c30371199ae3.apk?yingid=web_space&packageid=600137639&md5=55f8cf3f93e0d411de0b7d494cfced92&minSDK=15&size=32642463&shortMd5=092011356f05f9232d63ec3064df32ad&crc32=2320652982&did=ca33f1ae823ae46639f4f3d34d49e645
+更新时间：2015年12月04日 15:47
+
+官方版本号：v6.3.8.50_r251a77a
+https://alissl.ucdl.pp.uc.cn/fs06/2015/12/10/5/102_3e790d90e5ffbd81c5689f2da54d1fe6.apk?yingid=web_space&packageid=600143882&md5=6cd10e8de10a14771646db8d96309578&minSDK=15&size=32872982&shortMd5=505633bc6ee744730d320f1eab3755f3&crc32=2399084586&did=ed8639a0322548f815c2c0dc8d43d6d1
+更新时间：2015年12月10日 12:47
+
+官方版本号：v6.3.8.56_re6b2553
+https://alissl.ucdl.pp.uc.cn/fs06/2015/12/17/4/102_50827f6bd8b296deeabc345e1a823f3c.apk?yingid=web_space&packageid=600149764&md5=ff1658f617501209ac0d7873e802a324&minSDK=15&size=33453820&shortMd5=6056a3ff19df57dc1c7baaa55d54d987&crc32=4044672817&did=45e47632a29ec1e3fc9e1e923b07f2d6
+更新时间：2015年12月17日 10:11
+
+官方版本号：v6.3.31
+https://alissl.ucdl.pp.uc.cn/fs08/2016/12/17/11/102_63923eac0c1cac536b7589ec2319edd5.apk?yingid=web_space&packageid=600437234&md5=afd33c2c0182399572a000be0c5baa7f&minSDK=15&size=39074609&shortMd5=15bee9c9ec4a9ec77e92be3b3971fd07&crc32=2390991657&did=58155f4833c9c629581b716034f24c33
+更新时间：2016年12月17日 12:46
+
+官方版本号：v6.3.30
+https://alissl.ucdl.pp.uc.cn/fs08/2016/11/23/8/102_6ebff8db5aa986f0190730fba594223d.apk?yingid=web_space&packageid=600426688&md5=e5ac1f4586b40f200c0281c71b372a8a&minSDK=15&size=38893510&shortMd5=de63e2495bd47e17b5df01da29ce13a9&crc32=1307692425&did=7c67175d12425a0539237b674fe74016
+更新时间：2016年11月23日 12:50
+
+官方版本号：v6.3.27
+https://alissl.ucdl.pp.uc.cn/fs08/2016/10/29/6/102_33d9354e81b2d1a0a1de080fa05649bd.apk?yingid=web_space&packageid=600382826&md5=0c6fa6a9270cb43af1a7c7a57c8e8779&minSDK=15&size=38131449&shortMd5=dac1dd15190a34b38d83ab07cb2702e9&crc32=3164550603&did=46a4be70f0f5ba1a8ad96552686dec81
+更新时间：2016年10月29日 12:46
+
+官方版本号：v6.3.28
+https://alissl.ucdl.pp.uc.cn/fs08/2016/11/11/9/102_ac80064c9602d762d967de7158749c13.apk?yingid=web_space&packageid=600420424&md5=ad469f077b34f5b89f95cd74e627d1d0&minSDK=15&size=38789352&shortMd5=6f67f26581bc49979b1d16ab8330a684&crc32=839195220&did=5b4843d529133e7832009e5dbe30dd25
+更新时间：2016年11月11日 12:45
+
+官方版本号：v6.3.25
+https://alissl.ucdl.pp.uc.cn/fs08/2016/08/25/7/106_87d38f446a4a1e62c86a07d91bbf149d.apk?yingid=web_space&packageid=600299724&md5=9eada8ba0ce54c4293c47aba01ad202c&minSDK=15&size=36731856&shortMd5=5397f93976f8fae1572890c154f40154&crc32=3723811855&did=f39966aae868d8ae052dc63cd805f4d1
+更新时间：2016年08月25日 17:26
+
+官方版本号：v6.3.23
+https://alissl.ucdl.pp.uc.cn/fs08/2016/08/10/0/106_502a7bd682c6090e3c56b2d330ccb76d.apk?yingid=web_space&packageid=600274622&md5=37dcc31e46bcf53a67c1a34d104c37fc&minSDK=15&size=36671219&shortMd5=42e239432040f6e271bbe705c4688bcd&crc32=2408918219&did=6b74e3943ec36536d0fca6cd0dcd57f2
+更新时间：2016年08月10日 21:46
+
+官方版本号：v6.3.22
+https://alissl.ucdl.pp.uc.cn/fs08/2016/07/01/9/106_ee5ccc0992beec523eabb897e1ca60ea.apk?yingid=web_space&packageid=600261616&md5=1af80d6b4f5b3365d1a4b755bbc92fd2&minSDK=15&size=35712250&shortMd5=1b6e221c75dd940d12a8e05dd5bbcfc0&crc32=4174454893&did=9b299c31d46b0c85447d3a9181351cb8
+更新时间：2016年07月01日 02:23
+
+官方版本号：v6.3.18
+https://alissl.ucdl.pp.uc.cn/fs08/2016/05/24/10/106_ce5b4c51b1bbd3319425b0debaf1e918.apk?yingid=web_space&packageid=600250228&md5=c4ca59f711a7b48c77b3c6f8ff01672d&minSDK=15&size=36023586&shortMd5=5c83a6253359b41fe8a5a8c0a87f3c96&crc32=4233686595&did=1a1a0594c6d18f5d8a7922761205c8ff
+更新时间：2016年05月24日 21:44
+
+官方版本号：v6.3.16.49_r03ae324
+https://alissl.ucdl.pp.uc.cn/fs08/2016/04/19/4/106_d306a1c99314f34129cc3a7d6c77b01b.apk?yingid=web_space&packageid=600210482&md5=7ff97c6700d935b62e77cfc10bafea31&minSDK=15&size=36849312&shortMd5=6b6dbf25bfd4c21d7d062308ea17ecb6&crc32=2206614910&did=a5a80b4b9a06897a7c19f15a68437333
+更新时间：2016年04月19日 14:28
+
+官方版本号：v6.3.15.49_r8aff805
+https://alissl.ucdl.pp.uc.cn/fs04/2016/03/15/7/106_d7dac728e38d62bc7f0f7b14f52f4574.apk?yingid=web_space&packageid=600190682&md5=61cef1c120d7a67f4324280ef2c68184&minSDK=15&size=36429066&shortMd5=818498fcd99e3428e11a2f1f6e302688&crc32=2364865163&did=1c50085b7a4b71a7eeebd866c4bfb417
+更新时间：2016年03月15日 19:35
+
+官方版本号：v6.3.13.49_r4080b63
+https://alissl.ucdl.pp.uc.cn/fs06/2016/02/01/2/106_4c04dff1b2263eb582e9b2137310aa4e.apk?yingid=web_space&packageid=600165540&md5=0e9abebb0f554c6054758b596234ca8b&minSDK=15&size=36598395&shortMd5=f86ee38485d4f4dfae17be1939726f64&crc32=3226048967&did=857f35d6ab86b2cbccfcb10ffa41188d
+更新时间：2016年02月01日 21:43
+
+官方版本号：v6.3.11.49_rc8fa1c5
+https://alissl.ucdl.pp.uc.cn/fs06/2016/01/26/6/106_480c80250ae65a7f0f91cd0d978564d1.apk?yingid=web_space&packageid=600163157&md5=c7dd932b1d1b065565003993a4c3878f&minSDK=15&size=36582341&shortMd5=9bc680f08a531c1b5a1910ecfd917d47&crc32=1005687696&did=7eb1254420b69f37a0ae3c1c742a4b93
+更新时间：2016年01月26日 12:03
+
+官方版本号：v6.3.9.48_refecd3e
+https://alissl.ucdl.pp.uc.cn/fs06/2016/01/12/5/106_6d6982c0f7a0d1e99204afed1c25f447.apk?yingid=web_space&packageid=600159752&md5=03c37c2966de6c3c4103bfe5022c41c5&minSDK=15&size=35705360&shortMd5=435cdc1ce4f7b1d2ffbbed45209ea338&crc32=3518359665&did=a1d660cf3c5ce66a6bceda5bb680899b
+更新时间：2016年01月12日 22:01
+
+官方版本号：v6.6.1
+https://alissl.ucdl.pp.uc.cn/fs08/2017/12/29/3/106_93716afdf7799f11cd624c1be565e3a8.apk?yingid=web_space&packageid=600579390&md5=299871e10331ce65be335cbce150f322&minSDK=17&size=60311545&shortMd5=d48f3982ae9c79cfa038204b0038d460&crc32=3132486572&did=177213e48106f2890369ca84a9d1df85
+更新时间：2017年12月29日 14:17
+
+官方版本号：v6.6.0
+https://alissl.ucdl.pp.uc.cn/fs08/2017/12/22/6/106_99010db323f0ebfbc170a8461d1f579c.apk?yingid=web_space&packageid=600577103&md5=006473eb7690d8b89debd9613bf9e40e&minSDK=17&size=61301280&shortMd5=2a65d378827ff9e84b5abfb32148fa60&crc32=3692553817&did=652cfe5421b401dd81caf5c793740d18
+更新时间：2017年12月22日 23:32
+
+官方版本号：v6.5.22
+https://alissl.ucdl.pp.uc.cn/fs08/2017/12/09/4/102_2017f4fe21e8c134b5dc0aad1f33cfc1.apk?yingid=web_space&packageid=600571592&md5=76c59a6e6493dbf55dd12f8c862cf954&minSDK=17&size=56993827&shortMd5=e6eded48f20c3c05c0dd815ab994c1c5&crc32=239790317&did=c4ad8598a02cebab01ec389d6f7ee307
+更新时间：2017年12月09日 12:45
+
+官方版本号：v6.5.16
+https://alissl.ucdl.pp.uc.cn/fs08/2017/11/10/1/102_ac0a2ac651d569b348160ed823d74d30.apk?yingid=web_space&packageid=600561448&md5=75d92e74c288179d9bdb428bb16e6551&minSDK=17&size=47275981&shortMd5=fe3ae335d1548bf673f74f15af041518&crc32=2462914462&did=6def958a5759878054c940b61cfadcff
+更新时间：2017年11月10日 12:44
+
+官方版本号：v6.5.13
+https://alissl.ucdl.pp.uc.cn/fs08/2017/09/30/9/102_b363a5ca2db36f7d0a0fcedc4d0d58d6.apk?yingid=web_space&packageid=600547916&md5=1671be2b5ec71e559ac935c3707e733c&minSDK=16&size=46494452&shortMd5=ab1103caf29fd8ab1bf895cec2bb4dc7&crc32=3215137699&did=7b14b934160b63f25d0d99d325a9897c
+更新时间：2017年09月30日 12:45
+
+官方版本号：v6.5.10
+https://alissl.ucdl.pp.uc.cn/fs08/2017/08/22/0/102_cb7b005cfdb1707f9004db3ea6bbe31d.apk?yingid=web_space&packageid=600533932&md5=ebdd5994f428a8769cd368b91c34ff78&minSDK=16&size=46258498&shortMd5=9bb9efad4500be73f6a9ed03522f78b9&crc32=1048973646&did=486479a2cde77e7593178110fae67b29
+更新时间：2017年08月22日 12:45
+
+官方版本号：v6.5.8
+https://alissl.ucdl.pp.uc.cn/fs08/2017/12/09/3/102_f3795aa1e5b009a806418531633875a9.apk?yingid=web_space&packageid=600571591&md5=722607e77ada0e2bb6be2fd1411f4a86&minSDK=16&size=43898341&shortMd5=bac3e6d9abce3004882a1ca3eab51651&crc32=4170914989&did=070f6d8eb1744b900d2af95a6485a4b1
+更新时间：2017年12月09日 12:45
+
+官方版本号：v6.5.7
+https://alissl.ucdl.pp.uc.cn/fs08/2017/03/30/4/106_8d2f896737f9ec0e4f4112940b0e1e01.apk?yingid=web_space&packageid=600484222&md5=a57eb927aa21ab73d521be20dd0bf61b&minSDK=16&size=42394725&shortMd5=bac7d3c6570004936d2c4cd2b3f34ec8&crc32=1869511767&did=5d8e976160b4f2718e729d9ed07e8cb6
+更新时间：2017年03月30日 20:24
+
+官方版本号：v6.5.6
+https://alissl.ucdl.pp.uc.cn/fs08/2017/03/31/9/102_b3f1fe3ec73d511ac30bc2f7ed6f76d6.apk?yingid=web_space&packageid=600484447&md5=ac2fabc0eb6b944a3da60bd2a12c004b&minSDK=16&size=42273059&shortMd5=ec1070c8803e2d9cb30a17ac2bf19066&crc32=890759121&did=ac372afbfee1eec666be0089163f4a13
+更新时间：2017年03月31日 13:20
+
+官方版本号：v6.5.4
+https://alissl.ucdl.pp.uc.cn/fs08/2017/03/17/10/102_65c909b355debffeb2e64a7dd6d0f484.apk?yingid=web_space&packageid=600479949&md5=9ca49c3021f6827e348f4f4e6d7e3984&minSDK=16&size=40544412&shortMd5=fe8ff0eef0853c2a90d86cf431d19769&crc32=285286150&did=254a5ac2f3ec517fbeefb8e57d094439
+更新时间：2017年03月17日 12:46
+
+官方版本号：v6.5.3
+https://alissl.ucdl.pp.uc.cn/fs08/2017/01/22/3/102_43c12a8fac5541c5d65f62237d74c2b2.apk?yingid=web_space&packageid=600463209&md5=8ee2c3f8a6a4a20116eed72e7645aa31&minSDK=16&size=39026746&shortMd5=bc162c706b750e5a86fc85c60c09b05d&crc32=2897290435&did=f22fcc4c929716aa4493ef6a4ac1a5f4
+更新时间：2017年01月22日 12:46
+
+官方版本号：v6.3.32
+https://alissl.ucdl.pp.uc.cn/fs08/2017/01/01/7/102_231bf91411f1086438a4931c19715e4d.apk?yingid=web_space&packageid=600455331&md5=e0dda3c2f3205c0fbd1f2d0c1701ec79&minSDK=16&size=38005188&shortMd5=29240e7db9b2aa52f817688d2a0fa56a&crc32=4076425473&did=a91eeaf6e89389540c03a50a093d070f
+更新时间：2017年01月01日 12:46
+
+官方版本号：v7.0.0
+https://alissl.ucdl.pp.uc.cn/fs08/2018/12/31/1/106_605a65dd567fb73e45683b8ed1fc182d.apk?yingid=web_space&packageid=600751553&md5=371c7c353c7b87011fb3de8b12bcbca5&minSDK=19&size=97877116&shortMd5=94716e6c57dbd29dd0cfef12e32f0f0c&crc32=3434683284&did=081e302fdd7a9cb0e03dd126987c27d8
+更新时间：2018年12月31日 11:53
+
+官方版本号：v6.7.3
+https://alissl.ucdl.pp.uc.cn/fs08/2018/09/29/1/106_a7d2a972c4c9fc940a1643d76b8786bb.apk?yingid=web_space&packageid=600719774&md5=b46093493d4de3ae1d2dc7d5958b16de&minSDK=19&size=79193847&shortMd5=fc4e98fb1ba19869a0bbbb7aa12d41ca&crc32=2229978727&did=81832d0691aefdb03085a5967d01521b
+更新时间：2018年09月29日 10:14
+
+官方版本号：v6.7.2
+https://alissl.ucdl.pp.uc.cn/fs08/2018/08/17/1/106_b76db8337050787d29d93fec32600cfc.apk?yingid=web_space&packageid=600705751&md5=cced88db1d68c0b23cfdf2387d9bebbf&minSDK=19&size=69314647&shortMd5=686f023277b293188e34aaaea6d1d947&crc32=3030588940&did=197338bd0f6d81902ce0181ee9d4bbdf
+更新时间：2018年08月17日 16:44
+
+官方版本号：v6.6.7
+https://alissl.ucdl.pp.uc.cn/fs08/2018/05/31/1/106_540c1035668e79d9ca6fc1eb04abb10c.apk?yingid=web_space&packageid=600678409&md5=50cc095efbe6059601c6fb652547d737&minSDK=17&size=65301095&shortMd5=75f9bd44c256be01af7de8c56ed9365b&crc32=633995226&did=93c5462fe809592a4299ea6a88921bb4
+更新时间：2018年05月31日 14:57
+
+官方版本号：v6.6.6
+https://alissl.ucdl.pp.uc.cn/fs08/2018/04/10/8/2_fd3b7dee7558b8d2d63be58579000b13.apk?yingid=web_space&packageid=600611311&md5=e2eb5d6789eb17d6287ae6273a498d64&minSDK=17&size=61367689&shortMd5=c99fed0aff43aa9d69a1090fc0514f66&crc32=2997934121&did=467bef24e97d6dda3d955766399f048f
+更新时间：2018年04月10日 23:22
+
+官方版本号：v6.6.5
+https://alissl.ucdl.pp.uc.cn/fs08/2018/03/05/0/2_e3de1e9e24c390525cb1133fee19032c.apk?yingid=web_space&packageid=600600735&md5=02e3b3c4fe0ed8d761b8e54520cc6aab&minSDK=17&size=63669882&shortMd5=0a1b02e17217f1a916a9f41385cb3dac&crc32=4265504391&did=f3455f67c8cb2888c9bf5ad3b3b7edae
+更新时间：2018年03月05日 23:02
+
+官方版本号：v6.6.3
+https://alissl.ucdl.pp.uc.cn/fs08/2018/02/22/2/102_b1b3c5b2d08384751c7d4e1281411f3c.apk?yingid=web_space&packageid=600597684&md5=431cdedb8b6b69168ef374b95768a99a&minSDK=17&size=63595370&shortMd5=25e2160f3cab518b174c34da09bfb2d6&crc32=3131361406&did=768e4773a0aa902fc442aa0379dd2812
+更新时间：2018年02月22日 09:38
+
+官方版本号：v6.6.2
+https://alissl.ucdl.pp.uc.cn/fs08/2018/02/01/10/106_75bddcaa8f28ebc8b87caf26ca7b1615.apk?yingid=web_space&packageid=600593147&md5=2ac21137004834b49793c271492c7fcd&minSDK=17&size=61245776&shortMd5=68a65990bac0409fbc5fc009fdd24315&crc32=4277390498&did=6c6f6f6697e55f2bd5349d127af00c3f
+更新时间：2018年02月01日 18:01
+
+官方版本号：v6.5.23
+https://alissl.ucdl.pp.uc.cn/fs08/2018/04/12/1/102_bb25d10e389b811cddfd2609f94286c6.apk?yingid=web_space&packageid=600611892&md5=b49d3ab923fef3a6dadbc580c6ceec75&minSDK=17&size=58399473&shortMd5=6250e5bc13df157298ba16c872763161&crc32=788224062&did=f65ffbd7cb80f926c5639f3ed53981cf
+更新时间：2018年04月12日 12:47
+
+官方版本号：v6.5.19
+https://alissl.ucdl.pp.uc.cn/fs08/2018/02/23/6/102_4d1932334684575487666da9b67b2baf.apk?yingid=web_space&packageid=600598488&md5=ead8f4f2ad143d05750eeb6070e01f4d&minSDK=17&size=51815516&shortMd5=5a7afb5923566ba74d9381cb1f8ba0bd&crc32=2475088645&did=88575b6c7149ece35b4186d4f0af327b
+更新时间：2018年02月23日 12:45
+
+官方版本号：v7.0.10
+https://alissl.ucdl.pp.uc.cn/fs08/2019/12/26/11/106_85c273521bb1eb4af3fe0ba9269a08af.apk?yingid=web_space&packageid=600872586&md5=f12d61c38ae18278f83e0948c693d71f&minSDK=21&size=136952274&shortMd5=28fccc16b116ec0c94800db32cd9e062&crc32=3868425260&did=9bf2ecb6ffc6f3bf411ce3d8aa5b8f0b
+更新时间：2019年12月26日 15:54
+
+官方版本号：v7.0.9
+https://alissl.ucdl.pp.uc.cn/fs08/2019/11/28/11/106_800b9ca2e1b8e819eb9c2d1a44b736fb.apk?yingid=web_space&packageid=600862566&md5=a013f5c61b2708769b0d708aa7a25e57&minSDK=21&size=132870309&shortMd5=11101b16664430d620f7c37f9db79d14&crc32=292516861&did=6f27885df78f692cedfe33e0e6238737
+更新时间：2019年11月28日 22:25
+
+官方版本号：v7.0.6
+https://alissl.ucdl.pp.uc.cn/fs08/2019/09/07/9/106_8f7a92ef2cb4b5d556d42ad0be03a1d2.apk?yingid=web_space&packageid=600834528&md5=c2cc7e3a88b416afc092793c9a9f9768&minSDK=19&size=129659793&shortMd5=75154adc2203519711baa1c48d42c611&crc32=3872968665&did=ca360231308f810a7cfcbeeae1a10a7e
+更新时间：2019年09月07日 00:41
+
+官方版本号：v7.0.7
+https://alissl.ucdl.pp.uc.cn/fs08/2019/09/26/6/106_d12f9e86d342cfb7a8f1e0551de38a24.apk?yingid=web_space&packageid=600840751&md5=8983fe14c96d9576fbabc6b1442e1e77&minSDK=21&size=133509841&shortMd5=2cff91f80faf2be64e8a702cf79a1edc&crc32=958581769&did=680cbd74dc07c1602ff90dd119bc9747
+更新时间：2019年09月26日
+
+官方版本号：v7.0.8
+https://alissl.ucdl.pp.uc.cn/fs08/2019/10/31/8/106_2c9bbe8c2aaa39a2d2db59477c164678.apk?yingid=web_space&packageid=600851229&md5=2e8bdd7686474a7bc4a51adc3667cabf&minSDK=21&size=134309178&shortMd5=cb6153aacd9049e5b744667b213b5514&crc32=329971625&did=4f220b89919b2188495ff4e209da0f3d
+更新时间：2019年10月31日 14:23
+
+官方版本号：v7.0.4
+https://alissl.ucdl.pp.uc.cn/fs08/2019/04/16/5/106_1605a5676ba88f182226266a660502c3.apk?yingid=web_space&packageid=600786233&md5=b188c34e3e46ce136b67733d71e3fb8d&minSDK=19&size=101025891&shortMd5=74793a7122ae9c47bd043eeb7f929145&crc32=3008073585&did=d304c90ec8469d8d892416a7b0e554de
+更新时间：2019年04月16日 14:54
+
+官方版本号：v7.0.5
+https://alissl.ucdl.pp.uc.cn/fs08/2019/07/06/9/2_aad21a61ee14a5f4bffacb3cd9b392a4.apk?yingid=web_space&packageid=600814224&md5=b6adcb0024125653f427371efb752237&minSDK=19&size=110803724&shortMd5=d58474ad937047d38904a6610998bbc2&crc32=3331845311&did=4e4f46e84bdea508f8306e0904665f20
+更新时间：2019年07月06日 18:17
+
+官方版本号：v7.0.3
+https://alissl.ucdl.pp.uc.cn/fs08/2019/01/30/3/106_c5788f920a02be9f28a27ec136462d25.apk?yingid=web_space&packageid=600765940&md5=cad927e843b4382f3c757ebe8a95722b&minSDK=19&size=110045316&shortMd5=c93226a4c25ec107f18ca8e9fa03cea9&crc32=3727381213&did=f8b9555c5cd87b70766a42e78f7c94b3
+更新时间：2019年01月30日 11:22
+
+官方版本号：v7.0.22
+https://alissl.ucdl.pp.uc.cn/fs08/2020/12/25/11/106_8a51c10f9b918ac1f64ec0ea725d5eee.apk?yingid=web_space&packageid=601009908&did=2f69848f560b2070ba0cfe4c0bfec8ba
+更新时间：2020年12月25日 21:27
+
+官方版本号：v7.0.21
+https://alissl.ucdl.pp.uc.cn/fs08/2020/11/26/11/106_67df51da6d9f51b0a7eed7692a88d9d3.apk?yingid=web_space&packageid=601000895&did=903214f179f9a7a7d07461c482bb81c3
+更新时间：2020年11月26日 19:12
+
+官方版本号：v7.0.20
+https://alissl.ucdl.pp.uc.cn/fs08/2020/11/19/7/1_3f12574c5d10d21cf61c05451871ac45.apk?yingid=web_space&packageid=600998527&did=7c747faf844a61d3ac0b7c4c6332eeb0
+更新时间：2020年11月19日 17:18
+
+官方版本号：v7.0.19
+https://alissl.ucdl.pp.uc.cn/fs08/2020/09/17/7/106_c8c918409e2b64296b4999b19ffc4a47.apk?yingid=web_space&packageid=600980392&did=b50e40c93fe127b48da122ef66b4c892
+更新时间：2020年09月17日 15:47
+
+官方版本号：v7.0.18
+https://alissl.ucdl.pp.uc.cn/fs08/2020/08/20/8/106_ffdcf378fbce90d4af020122306b1bc1.apk?yingid=web_space&packageid=600971815&did=a1b40ce5bbec6fad7f9a51122abb892a
+更新时间：2020年08月20日 19:16
+
+官方版本号：v7.0.17
+https://alissl.ucdl.pp.uc.cn/fs08/2020/07/23/6/106_1e05fad2dca56bd4b6823a80eda6c31a.apk?yingid=web_space&packageid=600963378&did=5bdacb162c00b929e8aa2a0a3930c441
+更新时间：2020年07月23日 16:43
+
+官方版本号：v7.0.16
+https://alissl.ucdl.pp.uc.cn/fs08/2020/06/28/3/106_5d2cf8df50b02f24b671baaf3a40748d.apk?yingid=web_space&packageid=600954976&did=10be8167dc789c528f96d557114ab783
+更新时间：2020年06月28日 10:44
+
+官方版本号：v7.0.15
+https://alissl.ucdl.pp.uc.cn/fs08/2020/05/28/5/106_2a9279f230d15910f42f45a586a59384.apk?yingid=web_space&packageid=600936623&did=fd7ef3694205eb40ab73667ede38b603
+更新时间：2020年05月28日 21:44
+
+官方版本号：v7.0.14
+https://alissl.ucdl.pp.uc.cn/fs08/2020/04/30/10/106_b0d5cf4ae8dfb727b0f567d643f610f1.apk?yingid=web_space&packageid=600917745&did=fe9ece4bdd0b19630e2596a03ffea45a
+更新时间：2020年04月30日 11:28
+
+官方版本号：v7.0.13
+https://alissl.ucdl.pp.uc.cn/fs08/2020/04/02/2/106_eafd58dc0ba1ed1984f9e04a798ebf9b.apk?yingid=web_space&packageid=600904741&did=2eef52a5a1464b77fb07b27ae9dfa59b
+更新时间：2020年04月02日 17:16
+
+官方版本号：v7.0.12
+https://alissl.ucdl.pp.uc.cn/fs08/2020/03/05/4/106_581b0327e12b12c3aac511e990515727.apk?yingid=web_space&packageid=600894690&did=1d38ff5f34695a1dbfb8ee0690313e55
+更新时间：2020年03月05日 12:04
+
+官方版本号：v7.0.11
+https://alissl.ucdl.pp.uc.cn/fs08/2020/02/23/2/106_cbac36de79b9e532cafab02b9f62c57b.apk?yingid=web_space&packageid=600890669&did=37e503076b2746e73abc564b416c99ad
+更新时间：2020年02月23日 13:35
