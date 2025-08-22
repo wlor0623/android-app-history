@@ -1,13 +1,14 @@
 # [app-android-history](https://github.com/wlor0623/android-app-history)
 资源来源 https://www.wandoujia.com/
 微信安卓历史版本收集（2016-2025）
-QQ安卓历史版本收集
+
 
 # url转换
 https://android-apps.pp.cn/ => https://alissl.ucdl.pp.uc.cn/
 
-# 123盘
-https://www.123865.com/s/Qtm4jv-bjcbd?提取码:6666
+# 网盘下载
+链接：https://pan.quark.cn/s/912724db47c6?pwd=WESM
+提取码：WESM
 
 | Filename | Size (bytes) |
 |---|---|
