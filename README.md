@@ -2,13 +2,12 @@
 资源来源 https://www.wandoujia.com/
 微信安卓历史版本收集（2016-2025）
 
-
 # url转换
 https://android-apps.pp.cn/ => https://alissl.ucdl.pp.uc.cn/
 
 # 网盘下载
-链接：https://pan.quark.cn/s/912724db47c6?pwd=WESM
-提取码：WESM
+链接：[https://uwtxfkm78ne.feishu.cn/wiki/TnMbwacYkibecrkk5nhcuwbxnFb](https://uwtxfkm78ne.feishu.cn/wiki/TnMbwacYkibecrkk5nhcuwbxnFb)
+
 
 | Filename | Size (bytes) |
 |---|---|
